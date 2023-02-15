@@ -9,7 +9,7 @@
 @media screen and (max-width: 768px){
     .place__title{
         font-size: 42px;
-        line-height: 46px; 
+        line-height: 46px;
         max-width: 330px;
      }
 }
@@ -19,7 +19,7 @@
        max-width: 288px;
        font-size: 32px;
         line-height: 35px;
-        padding-right: 16px;  
+        padding-right: 16px;
         padding-left: 16px;
     }
 }

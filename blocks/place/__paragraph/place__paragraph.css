@@ -12,8 +12,7 @@
         .place__paragraph{
             font-size: 16px;
             max-width: 352px;
-           font-size: 16px;
-        }
+         }
     }
 
     @media screen and (max-width: 500px){
