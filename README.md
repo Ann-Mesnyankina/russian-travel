@@ -1,5 +1,5 @@
 ## Путешествие по России (russian - travel)
-### *[Ссылка на сайт]* (https://ann-mesnyankina.github.io/russian-travel/)
+### *Ссылка на сайт* https://ann-mesnyankina.github.io/russian-travel/
 ## *Описание*
 
   * ###  Учебный типовой одностраничный сайт на тему: "Путешествия по России".
