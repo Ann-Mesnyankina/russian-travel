@@ -1,0 +1,11 @@
+.header__lang-link_ru {
+    color: #f2f2f2;
+    font-size: 24px;
+}
+
+@media screen and (max-width: 320px) {
+    .header__lang-link_ru { 
+        line-height:20px;
+        font-size: 18px;
+    }
+}

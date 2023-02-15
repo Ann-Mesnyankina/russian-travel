@@ -1,0 +1,46 @@
+
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/EntezareZohoor2.eot'), url('fonts/EntezareZohoor2.ttf') format('truetype'), url('fonts/EntezareZohoor2.svg') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/vendor/fonts/Inter/Inter-Light.woff2) format("woff2"),
+         url(/vendor/fonts/Inter/Inter-Light.woff) format("woff");
+  }
+ 
+  
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/vendor/fonts/Inter/Inter-Regular.woff2) format("woff2"),
+         url(/vendor/fonts/Inter/Inter-Regular.woff) format("woff");
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/vendor/fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
+         url(/vendor/fonts/Inter/Inter-SemiBoldItalic.woff) format("woff");
+  }
+  
+  
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/vendor/fonts/Inter/Inter-Black.woff2) format("woff2"),
+         url(/vendor/fonts/Inter/Inter-Black.woff) format("woff");
+  }
+  
