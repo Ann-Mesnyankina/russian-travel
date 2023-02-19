@@ -3,7 +3,6 @@
     background-size: cover;
     background-position: center;
     max-width: 1184px;
-    width: 100%;
     min-height: 740px;
     position: relative;
     margin: 0 auto;
@@ -15,7 +14,7 @@
    
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1023px){
     .cover__background{
         width: 100%;
         min-height: 640px;
@@ -25,18 +24,14 @@
 
 @media screen and (max-width: 768px){
     .cover__background{
-        width: 100%;
         min-height: 480px;
-        margin: 0;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 500px){
     .cover__background {
-         width: 100%;
          min-height: 200px;
-         margin: 0;
-     }
+    }
 }
 
  .cover__background::before {

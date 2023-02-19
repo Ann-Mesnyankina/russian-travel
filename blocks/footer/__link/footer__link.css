@@ -9,7 +9,7 @@
     margin-right: 18px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
     .footer__link{
          padding-bottom: 32px;
          line-height: 24px;

@@ -2,9 +2,9 @@
     font-size: 12px;
     font-weight: 700;
     line-height: 18px;
-    color: #f2f2f2;
+    color: #FFFFFF;
     text-align: start;
-    width: 690px;
+    max-width: 690px;
     margin: 0;
     padding: 33px 0 0 0;
     list-style-type: none;
